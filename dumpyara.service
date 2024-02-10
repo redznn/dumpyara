@@ -10,7 +10,7 @@ RestartSec=10
 
 # Execution parameters
 User=itsvixano
-WorkingDirectory=/home/itsvixano/bot/dumpyara
+WorkingDirectory=/home/murali/bots/dumpyara
 ExecStart=/bin/sh -c 'source .venv/bin/activate && python3 main.py'
 
 # Limit damage in case something goes awry

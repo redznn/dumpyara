@@ -1,8 +1,8 @@
 # dumpyara
 
-[![Dump](https://github.com/Jiovanni-dump/dumpyara/actions/workflows/dump.yml/badge.svg)](https://github.com/Jiovanni-dump/dumpyara/actions/workflows/dump.yml)
+[![Dump](https://github.com/redznn/dumpyara/actions/workflows/dump.yml/badge.svg)](https://github.com/redznn/dumpyara/actions/workflows/dump.yml)
 
-**[Telegram channel (feed)](https://t.me/jiovanni_dumps)**
+**[Telegram channel (feed)](https://t.me/Redznn_dumps)**
 
 **Script requirements**:
 
