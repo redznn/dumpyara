@@ -6,7 +6,7 @@ on:
       - master
 
 env:
-  DUMP_URL: "" # Direct url to a recovery zip
+  DUMP_URL: "https://drive.usercontent.google.com/download?id=1WnCVHSNm06swnlhSigqky0j3Jtd3c6wl&export=download&authuser=0" # Direct url to a recovery zip
 
 jobs:
   dump:
